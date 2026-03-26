@@ -1,0 +1,16 @@
+{
+  "Blunder Boom targets a random player, use spare interrupts or CCs on this to stop it.": "블런더 붐은 무작위 플레이어를 표적으로 삼습니다. 차단하거나 CC를 사용하세요.",
+  "chains a random player until destroyed, make sure to use an interrupt or CC this cast.": "부서질때까지 무작위 플레이어를 사슬로 묶습니다. 차단하거나 CC를 꼭 사용하세요",
+  "Chilgar causes a Pillar to erupt from the ground, chaining any players caught in its radius": "칠가르는 반경 내에 있는 모든 플레이어를 사슬로 묶는 기둥을 땅에서 솟아오르게 합니다.",
+  "Chilgar targets the Tank with a powerful AoE strike which must be soaked by players": "칠가르는 탱커를 향해 플레이어들이 함께 흡수해야 하는 강력한 광역 공격을 합니다",
+  "Chilgar will cause waves to crash through the encounter arena, applying huge DoT to anyone hit by them": "칠가르는 파도를 경기장에 퍼부어 파도에 맞은 모든 플레이어에게 막대한 지속 피해를 줍니다",
+  "Depending on what build you’re running, your priority changes": "어떤 빌드를 사용하냐느에 따라 우선순위가 달라집니다",
+  "Elarion is a ranged DPS who utilizes powerful volleys and barrages to deal massive damage": "엘라리온은 강력한 일제 사격과 집중포화를 활용하여 막대한 피해를 입히는 원거리 딜러입니다",
+  "Focus is displayed as a bar below your character and you’ll use this to cast his array of abilities": "집중력은 캐릭터 아래 막대로 표시되며, 이를 사용하여 다양한 스킬을 시전할 수 있습니다.",
+  "He revolves around a builder / spender rotation with Focus as his resource.": "그는 집중력을 자원으로 사용하여, 빌드/자원을 소모하는 딜 사이클을 구사합니다.",
+  "Marrow begins the intermission by tossing his anchor into the centre of the arena. Marrow will then attempt to drown players who are not tethered to the anchor with rising tides": "마로우가 경기장 중앙에 닻을 내립니다. 닻에 묶여 있지 않은 플레이어는 밀물과 썰물에 익사합니다. 닻을 클릭하고 물 속에서 상어를 피하세요",
+  "shoots a tornado in a line towards a random player, use an interrupt or CC to stop the cast or avoid the projectile if it fires.": "무작위 플레이어를 향해 직선으로 토네이도를 발사합니다. 차단하거나 CC를 사용해도 되지만 그냥 투사체를 피하세요.",
+  "targets the tank, use any spare interrupts on this.": "탱커를 대상으로 합니다. 여유가 되면 차단하세요",
+  "Throughout the encounter, Chilgar will create tornados near random players that slowly spiral out around the room, applying a knockback and DoT.": "전투 내내 칠가르는 무작위 플레이어 근처에 토네이도를 생성하는데, 토네이도는 천천히 나선형으로 돌며 퍼져나가 넉백과와 지속 피해를 입힙니다.",
+  "Your goal is essentially to aim to get everything on cooldown.": "목표는 재사용 대기시간안에 모든 스킬을 사용하는 것입니다"
+}
