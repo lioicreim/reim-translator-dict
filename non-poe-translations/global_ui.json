@@ -1,5 +1,6 @@
 {
   "all news": "전체 뉴스",
+  "beasts": "야수",
   "browse games": "게임 둘러보기",
   "Build Guides": "빌드 가이드",
   "community builds": "커뮤니티 빌드",
@@ -11,5 +12,6 @@
   "hot topics": "핫 토픽",
   "leaderboards": "리더보드",
   "resources": "리소스",
-  "tier lists": "티어 리스트"
+  "tier lists": "티어 리스트",
+  "zombie": "좀비"
 }
