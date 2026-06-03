@@ -1,0 +1,3 @@
+# act_guide와 동일: id=지역ID, area_name=지역명
+# 구분자 | 권장 — sub_quest/reward에 쉼표(,) 자유
+id|area_name|title|sub_quest|reward|order
