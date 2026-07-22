@@ -1,0 +1,311 @@
+﻿id,area_name,quest
+g1_1,The Riverbank,Kill The Bloated Miller (Starting boss - use skill point after kill)
+g1_1,The Riverbank,Enter Clearfell Encampment
+g1_town,Clearfell Encampment,Talk to Renly 보상: Skill Gem
+g1_town,Clearfell Encampment,Enter Clearfell
+g1_2,Clearfell,"Optional: Complete Devourer Arena in Mud Burrow for Skill + Support Gem (After arena, portal out, talk to Renly, waypoint back to Clearfell) [선택] Provides skill gem and support gem"
+g1_2,Clearfell,Kill Beira of the Rotten Pack (Grants Cold Resistance bonus)
+g1_2,Clearfell,Enter The Grelwood
+g1_4,The Grelwood,Activate Waypoint
+g1_4,The Grelwood,Summon Una near waypoint (Important NPC for quest progression)
+g1_4,The Grelwood,Go to The Grim Tangle for waypoint (Diamond-shaped zone - find waypoint for orientation)
+g1_6,The Grim Tangle,Activate Waypoint
+g1_6,The Grim Tangle,Optional: Complete Brambleghast Arena or visit Hut for Witch support + flasks [선택] Brambleghast arena often near Red Vale entrance
+g1_6,The Grim Tangle,Enter The Red Vale (Often located near Brambleghast arena)
+g1_5,The Red Vale,Activate 3 Obelisks of Rust (Collect 3 quest runes from obelisks)
+g1_5,The Red Vale,"Kill The Rust King 보상: Runed Girdle, Runed Guard, Runed Skull Cap"
+g1_5,The Red Vale,Portal to Clearfell Encampment
+g1_town,Clearfell Encampment,Talk to Renly
+g1_town,Clearfell Encampment,Waypoint to The Grelwood
+g1_4,The Grelwood,Activate 3 Runic Seals
+g1_4,The Grelwood,Portal to Clearfell Encampment
+g1_town,Clearfell Encampment,Talk to Una
+g1_town,Clearfell Encampment,Waypoint to The Grim Tangle
+g1_6,The Grim Tangle,Optional: Complete Rotten Druid Arena for support gem [선택] Additional support gem
+g1_6,The Grim Tangle,Enter Cemetery of the Eternals
+g1_7,Cemetery of the Eternals,Talk to Lachlann
+g1_7,Cemetery of the Eternals,Optional: Find Ring in Ancient Ruin at zone edge [선택] Ancient Ruin located at edge of zone
+g1_7,Cemetery of the Eternals,Enter Tomb of the Consort (Located opposite of waypoint)
+g1_9,Tomb of the Consort,Optional: Find Knight support gem in Haunted Treasure [선택] Knight support in haunted treasure checkpoint
+g1_9,Tomb of the Consort,"Kill Asinia, the Praetor's Consort 보상: Asinia's Memorial Key Piece"
+g1_9,Tomb of the Consort,Return to Cemetery of the Eternals
+g1_7,Cemetery of the Eternals,Optional: Find Ring in Ancient Ruin at zone edge [선택] Ancient Ruin located at edge of zone
+g1_7,Cemetery of the Eternals,Enter Mausoleum of the Praetor
+g1_8,Mausoleum of the Praetor,"Kill Draven, the Eternal Praetor 보상: Draven's Memorial Key Piece"
+g1_8,Mausoleum of the Praetor,Return to Cemetery of the Eternals
+g1_7,Cemetery of the Eternals,Talk to Lachlann
+g1_7,Cemetery of the Eternals,"Kill Lachlann of Endless Lament (When gate opens, respawn via ESC menu) 보상: Count Lachlann's Ring"
+g1_7,Cemetery of the Eternals,Enter Hunting Grounds
+g1_11,Hunting Grounds,Talk to Delwyn
+g1_11,Hunting Grounds,Kill The Crowbell (Follow edge of zone to find Crowbell) 보상: 2 Skill Points
+g1_11,Hunting Grounds,Optional: Complete Dryadic Ritual or Ritual Altar for support/skill gems [선택] Dryadic Ritual or Ritual Altar rewards
+g1_11,Hunting Grounds,Follow edge to Freythorn
+g1_12,Freythorn,"Complete 3 small and 1 large ritual (If you find large ritual early, check swirls pointing to missing ones)"
+g1_12,Freythorn,Kill The King in the Mists 보상: 30 Spirit bonus
+g1_12,Freythorn,Talk to Finn
+g1_12,Freythorn,Portal to Clearfell Encampment
+g1_town,Clearfell Encampment,Talk to Finn [선택] [LEAGUE START] League-start only 보상: Elemental Resistance Charm (League Start Only)
+g1_town,Clearfell Encampment,Waypoint to Ogham Farmlands
+g1_13_1,Ogham Farmlands,Activate Waypoint
+g1_13_1,Ogham Farmlands,Find Hut and collect Una's Lute (Roads can be blocked - walk around if needed. Hut is straight along road.)
+g1_13_1,Ogham Farmlands,Optional: Find and clear Crop Circle for skill gem [선택] Crop Circle checkpoint on map
+g1_13_1,Ogham Farmlands,Follow road to Ogham Village
+g1_13_2,Ogham Village,Activate Waypoint
+g1_13_2,Ogham Village,Portal to Clearfell Encampment
+g1_town,Clearfell Encampment,Talk to Una - Turn in Hooded One quest
+g1_town,Clearfell Encampment,Talk to Una - Receive Book of Specialization 보상: Book of Specialization (Ascendancy)
+g1_town,Clearfell Encampment,Waypoint to Ogham Village
+g1_13_2,Ogham Village,Find Workshop and collect Smithing Tools (Workshop also has Artificer NPC and optional rune) [선택] [LEAGUE START] First character only - unlocks salvage bench 보상: Salvage Bench unlock (League Start Only)
+g1_13_2,Ogham Village,Kill The Executioner (Located at end of zone)
+g1_13_2,Ogham Village,Use Lever and talk to Leitis
+g1_13_2,Ogham Village,Enter The Manor Ramparts
+g1_14,The Manor Ramparts,Activate Waypoint
+g1_14,The Manor Ramparts,Optional: Find Hanged Man support gem along outer edge [선택] Support gem along outer edge
+g1_14,The Manor Ramparts,Portal to Clearfell Encampment
+g1_town,Clearfell Encampment,Talk to NPCs 보상: 2 Skill Points
+g1_town,Clearfell Encampment,Waypoint to The Manor Ramparts
+g1_14,The Manor Ramparts,Follow inner edge to Ogham Manor
+g1_15,Ogham Manor,"Floor 1: Kill Candlemass, the Living Rite (Find hole, check surroundings to progress) 보상: Life bonus"
+g1_15,Ogham Manor,Floor 3 Arena: Kill Count Geonor (Final boss of Act 1)
+g1_15,Ogham Manor,Portal to Clearfell Encampment
+g1_town,Clearfell Encampment,Talk to NPCs
+g1_town,Clearfell Encampment,Talk to Hooded One
+g1_town,Clearfell Encampment,Proceed to Act 2
+g2_1,Vastiri Outskirts,Kill Rathbreaker (Follow edge to find long passage to arena)
+g2_1,Vastiri Outskirts,"Portal to town, enter The Ardura Caravan"
+g2_town,The Ardura Caravan,Talk to Hooded One and Asala
+g2_town,The Ardura Caravan,Desert Map: Enter Mawdun Quarry
+g2_10_1,Mawdun Quarry,"Follow checkpoints, enter Mawdun Mine (Optional: Artificer in Faridun Cache (side area) - skill gem vendor)"
+g2_10_2,Mawdun Mine,Tag Waypoint
+g2_10_2,Mawdun Mine,"Kill Rudja, the Dread Engineer (Arena is usually north or east)"
+g2_10_2,Mawdun Mine,"Open Cage, talk to Risu"
+g2_10_2,Mawdun Mine,Portal to The Ardura Caravan
+g2_town,The Ardura Caravan,Talk to Risu
+g2_town,The Ardura Caravan,Desert Map: Enter The Halani Gates (blocked)
+g2_3,The Halani Gates,Talk to Asala
+g2_3,The Halani Gates,Return to The Ardura Caravan
+g2_town,The Ardura Caravan,Talk to Risu and Asala
+g2_town,The Ardura Caravan,Desert Map: Enter Traitor's Passage
+g2_2,Traitor's Passage,Tag Waypoint
+g2_2,Traitor's Passage,Activate Ancient Seal (middle of zone)
+g2_2,Traitor's Passage,Activate 3 Runic Seals
+g2_2,Traitor's Passage,"Kill Balbala, the Traitor, take Balbala's Barya (Follow wall with paper talismans)"
+g2_2,Traitor's Passage,Enter The Halani Gates
+g2_3,The Halani Gates,Tag Waypoint
+g2_3,The Halani Gates,Summon Asala
+g2_3,The Halani Gates,"Defeat Jamanra, the Risen King (Follow canyon, use stairs after boss)"
+g2_3,The Halani Gates,Go to sandstorm deeper in area
+g2_3,The Halani Gates,Portal to The Ardura Caravan
+g2_town,The Ardura Caravan,Talk to Zarka
+g2_town,The Ardura Caravan,"Desert Map: Enter Trial of the Sekhemas, tag Waypoint, return to Town (Optional: Complete Trial for Ascendancy - can do now or later)"
+g2_town,The Ardura Caravan,Talk to Asala
+g2_town,The Ardura Caravan,Desert Map: Enter Keth
+g2_4_1,Keth,Kill serpents for Kabala Clan Relic
+g2_4_1,Keth,"Kill Kabala, Constrictor Queen 보상: 2 Skill Points"
+g2_4_1,Keth,"Follow edge, find bridge to The Lost City (Optional: Amulet from Shrine of Hotak (check arena stairs))"
+g2_4_2,The Lost City,Enter Buried Shrines (Optional: Spirit in sarcophagus OR jewel from scarab)
+g2_4_3,Buried Shrines,Go to Heart of Keth (Optional: Resist Ring from elemental offering)
+g2_4_3,Heart of Keth,"Kill Azarian, the Forsaken Son"
+g2_4_3,Heart of Keth,Talk to Water Goddess (Halani)
+g2_4_3,Heart of Keth,"Take Cinders, ignite Goddess, take Essence of Water"
+g2_4_3,Heart of Keth,Portal to The Ardura Caravan
+g2_town,The Ardura Caravan,Talk to Zarka
+g2_town,The Ardura Caravan,Desert Map: Enter Mastodon Badlands
+g2_5_1,Mastodon Badlands,Enter The Bone Pits (Optional: Support gem in Fossilized Memorial | League: Lightless Passage > Well of Souls (once per league))
+g2_5_2,The Bone Pits,Tag Waypoint
+g2_5_2,The Bone Pits,Kill monsters for Sun Clan Relic (Kill hyenas on the way)
+g2_5_2,The Bone Pits,Go to Blackrib Pit
+g2_5_2,Blackrib Pit,"Kill Iktab, the Deathlord and Ekbab, Ancient Steed, take Mastodon Tusks"
+g2_5_2,Blackrib Pit,Portal to The Ardura Caravan
+g2_town,The Ardura Caravan,Talk to Zarka
+g2_town,The Ardura Caravan,Desert Map: Enter Valley of the Titans
+g2_6,Valley of the Titans,Tag Waypoint
+g2_6,Valley of the Titans,"Insert relics near Waypoint, activate Medallion (Charm bonus)"
+g2_6,Valley of the Titans,Activate 3 Ancient Seals (outer/inner edges)
+g2_6,Valley of the Titans,Enter The Titan Grotto
+g2_7,The Titan Grotto,"Kill Zalmarath, the Colossus, take The Flame Ruby"
+g2_7,The Titan Grotto,Portal to The Ardura Caravan
+g2_town,The Ardura Caravan,Talk to Zarka (get Horn)
+g2_town,The Ardura Caravan,Talk to Asala
+g2_town,The Ardura Caravan,Desert Map: Return to Traitor's Passage
+g2_2,Traitor's Passage,Sound the Horn at front of caravan
+g2_2,Traitor's Passage,Talk to Asala
+g2_2,Traitor's Passage,Desert Map: Enter Deshar
+g2_8,Deshar,"Find Lailuma's Body (Fallen Dekhara), take Final Letter (Optional: Artificer in skeleton side area)"
+g2_8,Deshar,"Kill Hunin, Storm Caller and Mugin, Frost Bringer, take Djinn Barya"
+g2_8,Deshar,Enter Path of Mourning
+g2_9_1,Path of Mourning,Enter Spires of Deshar
+g2_9_2,Spires of Deshar,Tag Waypoint
+g2_9_2,Spires of Deshar,Activate Sisters of Garukhan shrine (Lightning Resistance)
+g2_9_2,Spires of Deshar,"Kill Tor Gul, the Defiler (Find G-pattern or reach far end of zone)"
+g2_9_2,Spires of Deshar,Portal to The Ardura Caravan
+g2_town,The Ardura Caravan,Give Final Letter to Shambrin 보상: 2 Skill Points
+g2_town,The Ardura Caravan,Talk to Asala
+g2_town,The Ardura Caravan,Desert Map: Enter The Dreadnought
+g2_12_1,The Dreadnought,Enter Dreadnought Vanguard
+g2_12_2,Dreadnought Vanguard,Tag Waypoint
+g2_12_2,Dreadnought Vanguard,"Kill Jamanra, the Abomination"
+g2_12_2,Dreadnought Vanguard,Portal to The Ardura Caravan
+g2_town,The Ardura Caravan,Talk to Hooded One
+g2_town,The Ardura Caravan,Talk to Asala - Proceed to Act 3
+g3_1,Sandswept Marsh,Enter Ziggurat Encampment (Optional: Skill gem arena (Rootdredge) | Ring (Hanging Tree) | Jeweller (Orok Camp near exit))
+g3_town,Ziggurat Encampment,Talk to NPCs
+g3_town,Ziggurat Encampment,Enter Jungle Ruins (top)
+g3_3,Jungle Ruins,Tag Waypoint
+g3_3,Jungle Ruins,Kill Mighty Silverfist (Optional: Belt from Jungle Grave) 보상: 2 Skill Points
+g3_3,Jungle Ruins,Enter Venom Crypts (near WP)
+g3_4,Venom Crypts,Take Corpse-snake Venom from Corpse (end of zone)
+g3_4,Venom Crypts,Portal to Ziggurat Encampment
+g3_town,Ziggurat Encampment,Talk to Servi - Choose permanent buff + Artificer unlock (FINAL CHOICE - Cannot be changed later!)
+g3_town,Ziggurat Encampment,"Waypoint to Jungle Ruins, enter Infested Barrens (opposite from WP)"
+g3_2_1,Infested Barrens,"Tag Waypoint, summon Alva (WP may require entering 2 side zones along edge)"
+g3_2_1,Infested Barrens,Enter Azak Bog
+g3_7,Azak Bog,"Tag Waypoint, summon Servi (Optional: Flameskin Ritual (25% rarity/fire-res, near center))"
+g3_7,Azak Bog,"Kill Ignagduk, the Bog Witch, take Ghastly Spear 보상: 30 Spirit bonus"
+g3_7,Azak Bog,Portal to Ziggurat Encampment
+g3_town,Ziggurat Encampment,Talk to Servi (get Ailment Charm)
+g3_town,Ziggurat Encampment,"Waypoint to Infested Barrens, enter Chimeral Wetlands (opposite Azak Bog)"
+g3_5,Chimeral Wetlands,Tag Waypoint
+g3_5,Chimeral Wetlands,"Kill Xyclucian, the Chimera, take Chimeral Inscribed Ultimatum (Follow edge; if you find Temple of Chaos first, follow opposite edge)"
+g3_5,Chimeral Wetlands,Enter Jiquani's Machinarium (within boss arena)
+g3_6_1,Jiquani's Machinarium,Tag Waypoint
+g3_6_1,Jiquani's Machinarium,"Waypoint to Chimeral Wetlands, enter Temple of Chaos (If found previously, waypoint to it; otherwise follow opposite edge)"
+g3_10,Temple of Chaos,"Tag Waypoint, then Waypoint to Jiquani's Machinarium (Optional: Complete Trial for Ascendancy - can do now or later)"
+g3_6_1,Jiquani's Machinarium,"Summon Alva, take Small Soul Core, activate Stone Altar"
+g3_6_1,Jiquani's Machinarium,"Find 2 more Small Soul Cores, activate Stone Altars"
+g3_6_1,Jiquani's Machinarium,"Kill Blackjaw, the Remnant (Search side-edges for locked room with stairs) 보상: Fire Resistance boost"
+g3_6_1,Jiquani's Machinarium,Follow red trace to Jiquani's Sanctum
+g3_6_2,Jiquani's Sanctum,"Tag Waypoint, summon Alva"
+g3_6_2,Jiquani's Sanctum,"Find 2 Medium Soul Cores, start 2 Generators (V-shape corners) (Divided zone - each side has find cores, start generator, return to start tasks)"
+g3_6_2,Jiquani's Sanctum,Activate Large Soul Core near Alva
+g3_6_2,Jiquani's Sanctum,"Kill Zicoatl, Warden of the Core, take Large Soul Core"
+g3_6_2,Jiquani's Sanctum,Waypoint to Infested Barrens
+g3_2_1,Infested Barrens,Insert Large Soul Core at Stone Altar (near WP)
+g3_2_1,Infested Barrens,Enter Matlan Waterways (nearby)
+g3_2_2,Matlan Waterways,"Pull all Canal Levers, pull large Canal Lever (end of zone)"
+g3_2_2,Matlan Waterways,Portal to Ziggurat Encampment
+g3_town,Ziggurat Encampment,"Go down stairs, talk to Alva"
+g3_town,Ziggurat Encampment,Enter Drowned City
+g3_8,Drowned City,"Tag Waypoint, summon Oswald"
+g3_8,Drowned City,Enter Molten Vault
+g3_9,Molten Vault,Tag Waypoint
+g3_9,Molten Vault,"Use Lever, pull Sluice Gate Lever, kill Mektul, the Forgemaster, take Hammer of Kamasa (Optional: Do now or later - Talk to Oswald after for reforging bench)"
+g3_9,Molten Vault,"Waypoint to Drowned City, enter Apex of Filth"
+g3_11,Apex of Filth,Tag Waypoint
+g3_11,Apex of Filth,"Kill Queen of Filth (end of zone), take Temple Door Idol (Optional: Quality flasks from Cauldron - find/loot 3 mushrooms in zone)"
+g3_11,Apex of Filth,Portal to Ziggurat Encampment
+g3_town,Ziggurat Encampment,"Talk to Alva (down stairs), open door"
+g3_town,Ziggurat Encampment,Enter Temple of Kopec
+g3_12,Temple of Kopec,"Climb stairs twice (corner of pyramid), kill Ketzuli, High Priest of the Sun"
+g3_12,Temple of Kopec,"Summon Alva, investigate platform, enter gateway"
+g3_12,Temple of Kopec,"Tag Waypoint (behind gateway), go down stairs"
+g3_12,Temple of Kopec,Enter Utzaal
+g3_14,Utzaal,Tag Waypoint
+g3_14,Utzaal,"Follow war-cry sound, kill Viper Napuatzi (Kill Goliaths for Sacrificial Heart on the way (also drops next zone))"
+g3_14,Utzaal,Enter Aggorat
+g3_16,Aggorat,Tag Waypoint
+g3_16,Aggorat,"Kill Goliaths for Sacrificial Heart (if needed), find plaza altar"
+g3_16,Aggorat,"Take Sacrificial Dagger, place and stab Sacrificial Heart at Blood Sacrifice altar (Altar is north of plaza - direct path often blocked) 보상: 2 Skill Points"
+g3_16,Aggorat,Enter Black Chambers (east or southwest of Blood Sacrifice)
+g3_17,Black Chambers,Tag Waypoint
+g3_17,Black Chambers,"Kill Doryani, Royal Thaumaturge and Doryani's Triumph (Zone: mazes connected by bridges)"
+g3_17,Black Chambers,Talk to Doryani
+g3_17,Black Chambers,Portal to Ziggurat Encampment
+g3_town,Ziggurat Encampment,"Talk to Doryani (apocalypse cutscene), talk to Alva - Proceed to Act 4"
+g4_town,Kingsmarch,"Talk to Doryani, talk to Alva (Book Charter), talk to Makoru - Sail to Kedge Bay"
+g4_2_1,Kedge Bay,"Tag Waypoint, explore optionals (Optional: Jeweller in Abandoned Ship checkpoint | Exalted/Map in Stash checkpoint)"
+g4_2_1,Kedge Bay,Enter Journey's End
+g4_2_2,Journey's End,"Tag Waypoint, talk to Tujen (Optional: Alchemy Orb from league mechanic)"
+g4_2_2,Journey's End,"Kill Hartlin for Verisium, portal to Kingsmarch"
+g4_town,Kingsmarch,"Talk to Dannig (Verisium Spikes), waypoint back to Journey's End"
+g4_2_2,Journey's End,"Talk to Freya, kill Omniphobia (Dark Mists quest) 보상: 2 Skill Points"
+g4_2_2,Journey's End,"Portal to Kingsmarch, talk to Tujen (Skill Gem & Book), sail to Whakapanu Island"
+g4_3_1,Whakapanu Island,"Explore optionals, enter Singing Caverns (Optional: Artificer (league) | Support gem in Cavern | Shark Fin from Arena (hand in at Ngakanu) | Map piece from Pirate)"
+g4_3_2,Singing Caverns,"Find & kill Diamora (Optional: All-res Amulet - find Pearl in Clam checkpoint, then portal to talk to Rog)"
+g4_3_2,Singing Caverns,"Return to Ship, sail to Abandoned Prison"
+g4_5_1,Abandoned Prison,"Kill Necromancers for Chapel Key, find & activate Chapel Statue (Optional: Exalted from league mechanic | Buff: 30% inc. flask recovery (swappable))"
+g4_5_1,Abandoned Prison,Enter Solitary Confinement
+g4_5_2,Solitary Confinement,"Kill The Prisoner, return to Ship, sail to Isle of Kin"
+g4_1_1,Isle of Kin,"Tag Waypoint, explore optionals (Optional: GCP (league) | Skill/Support in Beast Pen | Jeweller in Delve | Greater Rune from Blind Beast arena | Map piece from Sailor)"
+g4_1_1,Isle of Kin,Enter Volcanic Warrens
+g4_1_2,Volcanic Warrens,"Kill Krutog, Lord of Kin (end of zone), talk to Hooded One (Optional: Fire/Lightning Ring (10% quality) in Volcanic Nest - element based on boss killed last)"
+g4_1_2,Volcanic Warrens,"Return to Ship, talk to Makoru - Sail to Abandoned Prison"
+g4_5_1,Abandoned Prison,"Kill monsters for Chapel Key, open Chapel Door, tag Waypoint"
+g4_5_1,Abandoned Prison,"Activate Goddess of Justice (Flask recovery, can change later), use Levers"
+g4_5_1,Abandoned Prison,Enter Solitary Confinement
+g4_5_2,Solitary Confinement,"Use Levers, kill The Prisoner, talk to Hooded One"
+g4_5_2,Solitary Confinement,"Return to Ship, talk to Makoru - Sail to Whakapanu Island"
+g4_3_1,Whakapanu Island,Enter Singing Caverns (Optional: Support in Crabshell Cave | Skill/Spirit/Support - kill Great White for Fin (turn in to Kaimana in Ngakanu))
+g4_3_2,Singing Caverns,"Kill Diamora, Song of Death, talk to Hooded One (Optional: All-res Amulet - find Pearl in Clam)"
+g4_3_2,Singing Caverns,"Return to Ship, talk to Makoru - Sail to Shrike Island"
+g4_7,Shrike Island,"Kill Scourge of the Skies, talk to Hooded One (Optional: Map piece in Corpse Nest)"
+g4_7,Shrike Island,"Return to Ship, talk to Makoru - Sail to Eye of Hinekora (NOTE: One of the first four islands will have Matiki to rescue (randomized each league))"
+g4_4_1,Eye of Hinekora,"Talk to Matiki and NPCs, activate Well of Hinekora"
+g4_4_1,Eye of Hinekora,"Complete 3 tests, click Pay your Respects (Spirit boost at waterfall between 2nd and 3rd test | Respects in Silent Hall (side area)) 보상: Mana boost"
+g4_4_1,Eye of Hinekora,Enter Halls of the Dead (further down)
+g4_4_2,Halls of the Dead,Tag Waypoint
+g4_4_2,Halls of the Dead,"Complete 3 tests for Tattoos: Tawhoa (Dex/Lightning), Tasalio (Int/Cold), Ngamahu (Str/Fire) (Talk to totems to turn in Tattoos)"
+g4_4_2,Halls of the Dead,"Defeat Yama The White, take Silver Coin"
+g4_4_2,Halls of the Dead,Enter Trial of the Ancestors
+g4_4_3,Trial of the Ancestors,"Tag Waypoint, talk to Navali, take Tattoo of Hinekora 보상: 2 Skill Points"
+g4_4_3,Trial of the Ancestors,"Return to Ship, talk to Makoru - Sail to Arastas"
+g4_8b,Arastas (hostile),"Tag Waypoint, talk to Missionary Lorandis, follow him outside (Optional: 3 Exalts & Regals in Bells)"
+g4_8b,Arastas (hostile),"Destroy forcefield, kill Torvian, Hand of the Saviour"
+g4_8b,Arastas (hostile),Enter The Excavation
+g4_10,The Excavation,"Kill Benedictus, First Herald of Utopia, enter forge"
+g4_10,The Excavation,"Talk to Hooded One, portal to Town"
+g4_town,Kingsmarch,"Talk to NPCs, talk to Rhodri (at ship) - Sail to Ngakanu (Optional: Talk to Rog (trade All-res Amulet for Pearl) | Kedge Bay side-content (Liquid Emotions, Map piece, Skill gem) | Makoru sail to Plunder's Point)"
+g4_11_1b,Ngakanu (hostile),Enter Heart of the Tribe (Greater Jeweller: Abyss encounter)
+g4_11_2,Heart of the Tribe,Tag Waypoint
+g4_11_2,Heart of the Tribe,"Defeat Tavakai (the Chieftain, the Fallen, and the Consumed), portal to Town"
+g4_town,Kingsmarch,"Talk to NPCs, talk to Hooded One - Proceed to Act 5 (Ogham, Vastiri, or Mount Kriar)"
+p1_town,The Refuge,"Talk to Renly, enter Scorched Farmlands"
+p1_1,Scorched Farmlands,Kill Heldra of the Black Pyre and Isolde of the White Shroud near Wall of Darkness (Optional: Skill gem from corpse along the road)
+p1_1,Scorched Farmlands,Enter Stones of Serle
+p1_2,Stones of Serle,"Activate all Runed Megaliths, go to center rune"
+p1_2,Stones of Serle,"Kill Siora, Blade of the Mists, talk to Una"
+p1_2,Stones of Serle,"Return to Scorched Farmlands, go to Wall of Darkness, enter The Blackwood"
+p1_3,The Blackwood,Enter Holten (Optional: Omens in Omen Altars)
+p1_4,Holten,"Tag Waypoint in Holten Estate (in-out), enter Wolvenhold (Optional: Rune trader near water)"
+p1_5,Wolvenhold,"Kill Oswin, the Dread Warden 보상: 2 Skill Points"
+p1_5,Wolvenhold,Waypoint to Holten Estate
+p1_6,Holten Estate,"Kill Thane Wulfric and Lady Elswyth (ground floor), portal to Town"
+p1_town,The Refuge,"Talk to Renly, talk to Hooded One - Proceed to Vastiri (Act 6)"
+p2_town,The Khari Bazaar,"Talk to Asala, talk to Zarka, enter The Khari Crossing"
+p2_1,The Khari Crossing,"Activate Wayfinder's Seal, kill Akthi and Anundr, portal to Town (Seal usually 3 or 2 o'clock from arena entrance)"
+p2_town,The Khari Bazaar,"Talk to Risu (Book of Specialization), return to The Khari Crossing 보상: 2 Skill Points"
+p2_1,The Khari Crossing,"Activate Wayfinder's Seal, find Skullmaw Stairway, take Molten One's Gift (Follow arrow under you) 보상: Life boost"
+p2_1,The Khari Crossing,"Find Merchant Torbik, enter The Galai Gates (usually 7 or 6 o'clock from Torbik)"
+p2_1,The Khari Crossing,"Waypoint to Pools of Khatal (via crossing seal), enter Sel Khari Sanctuary"
+p2_3,Sel Khari Sanctuary,Tag Waypoint
+p2_3,Sel Khari Sanctuary,"Kill Elzarah, the Cobra Lord, talk to Asala, portal to Town (Optional: Ring/Amulet/Jewel - loot 2 Baryas, insert into pedestals (side edges))"
+p2_town,The Khari Bazaar,"Talk to NPCs, waypoint to The Galai Gates"
+p2_5,The Galai Gates,Tag Waypoint
+p2_5,The Galai Gates,"Kill Vornas, the Fell Flame, enter Qimah"
+p2_6,Qimah,"Tag Waypoint, activate Seven Pillars (boost can be changed anytime) (Seven Pillars is a side area)"
+p2_6,Qimah,"Summon Jado (end of zone), enter Qimah Reservoir"
+p2_7,Qimah Reservoir,Tag Waypoint
+p2_7,Qimah Reservoir,"Kill Azmadi, the Faridun Prince, activate Grand Barya (Optional: Currency - loot 2 vials for 2 wells)"
+p2_7,Qimah Reservoir,"Talk to Jado, portal to Town"
+p2_town,The Khari Bazaar,"Talk to NPCs, talk to Hooded One - Proceed to Mount Kriar (Act 7)"
+p3_town,The Glade,"Talk to Doryani, enter Ashen Forest"
+p3_1,Ashen Forest,Enter Kriar Village (Optional: Skill gem in Ancient Monument)
+p3_2,Kriar Village,Tag Waypoint
+p3_2,Kriar Village,"Kill Lythara, the Wayward Spear 보상: 40 Spirit boost"
+p3_2,Kriar Village,Enter Glacial Tarn
+p3_3,Glacial Tarn,Tag Waypoint
+p3_3,Glacial Tarn,"Kill Rakkar, the Frozen Talon, tag Waypoint in Kriar Peaks (in-out)"
+p3_3,Glacial Tarn,Enter Howling Caves
+p3_4,Howling Caves,Tag Waypoint
+p3_4,Howling Caves,"Kill The Abominable Yeti, take Icy Tusks, portal to Town"
+p3_town,The Glade,"Talk to Hilda (Book of Specialization), waypoint to Kriar Peaks 보상: 2 Skill Points"
+p3_5,Kriar Peaks,"Take gift from Elder Madox (item of choice), enter Etched Ravine (Elder Madox - long, narrow passage along the edge)"
+p3_6,Etched Ravine,Tag Waypoint
+p3_6,Etched Ravine,"Kill Stormgore, the Guardian, enter The Cuachic Vault"
+p3_7,The Cuachic Vault,Tag Waypoint
+p3_7,The Cuachic Vault,"Kill Zelina and Zolin (Blood Priestess and Priest), summon Doryani, portal to Town"
+p3_town,The Glade,Waypoint to Kingsmarch (Act 4 town)
+g4_town,Kingsmarch,"Talk to NPCs, talk to Hooded One (Book of Specialization) - Travel to Oriath 보상: 2 Skill Points"
+g4_town,Kingsmarch,"Check Character → Quest Passives to verify all passive boosts collected! (Make sure you collected all skill points, spirit boosts, and other passive rewards before endgame)"
+g_endgame_town,The Ziggurat Refuge,"Talk to Alva, talk to Doryani, use Map Device - Run one map to unlock mapping"
+g_endgame_town,The Ziggurat Refuge,Start mapping in hideout - Leveling guide complete!

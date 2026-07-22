@@ -1,0 +1,506 @@
+﻿id,area_name,quest
+1_1_1,The Twilight Strand,Kill Hillock (Guaranteed Level Up to Level 2)
+1_1_1,The Twilight Strand,Enter Lioneye's Watch
+1_1_town,Lioneye's Watch,Talk to Tarkleigh
+1_1_town,Lioneye's Watch,Enter The Coast
+1_1_2,The Coast,Activate Waypoint
+1_1_2,The Coast,Rush to Mud Flats (No need to kill enemies - next zones will suffice to reach Level 4. Click corpses for loot.)
+1_1_3,The Mud Flats,Find 3 Glyphs in water streams (The streams form a triangle or line pattern)
+1_1_3,The Mud Flats,Find and enter Submerged Passage
+1_1_3,The Mud Flats,Waypoint back to The Coast
+1_1_2,The Coast,Enter The Tidal Island
+1_1_2a,The Tidal Island,Kill Hailrake and collect Medicine Chest (Recommended Level 4)
+1_1_2a,The Tidal Island,Return to town (Relog)
+1_1_town,Lioneye's Watch,Turn in quests to Tarkleigh and Nessa
+1_1_town,Lioneye's Watch,Waypoint to Submerged Passage
+1_1_4_1,The Submerged Passage,Find the bridge and place Portal (Or place portal when you see Flooded Depths entrance on minimap)
+1_1_4_1,The Submerged Passage,Cross bridge to enter The Ledge
+1_1_5,The Ledge,Follow the wall to The Climb (Safer route: follow the cliff. Avoid Kuduku the False God (totem boss with AoE explosion))
+1_1_6,The Climb,Follow the west edge to Lower Prison (Follow the west edge from the entrance)
+1_1_7_1,The Lower Prison,Activate Waypoint
+1_1_7_1,The Lower Prison,Waypoint to town
+1_1_town,Lioneye's Watch,Take Portal back to Submerged Passage
+1_1_4_1,The Submerged Passage,"Find and enter Flooded Depths (Usually at 6 o'clock or 1 o'clock before bridge, rarely 3 o'clock)"
+1_1_4_0,The Flooded Depths,Kill Deep Dweller (Search diagonally opposite the entrance)
+1_1_4_0,The Flooded Depths,Return to town (Relog)
+1_1_town,Lioneye's Watch,Talk to Tarkleigh for Passive Point
+1_1_town,Lioneye's Watch,Talk to Nessa
+1_1_town,Lioneye's Watch,Waypoint to Lower Prison
+1_1_7_1,The Lower Prison,Complete Trial of Ascendancy (Usually at 1 o'clock in the zone)
+1_1_7_1,The Lower Prison,Enter The Upper Prison
+1_1_7_2,The Upper Prison,Optional: Find Chemist's Strongbox (High chance for Quicksilver Flask. Vendor: QSF + Aug + Boots = MS Boots)
+1_1_7_2,The Upper Prison,Kill Brutus (Aim to be Level 8-10)
+1_1_7_2,The Upper Prison,Return to town (Relog)
+1_1_town,Lioneye's Watch,Talk to Tarkleigh
+1_1_town,Lioneye's Watch,Waypoint to Prisoner's Gate
+1_1_8,Prisoner's Gate,"Follow ledge near road to side passage, then to Ship Graveyard (Exit is always on a lower layer than entrance - follow downward slopes)"
+1_1_9,The Ship Graveyard,Find Ship Graveyard Cave entrance and place Portal
+1_1_9,The Ship Graveyard,Find and enter Cavern of Wrath
+1_1_11_1,The Cavern of Wrath,Activate Waypoint (Follow the river in the direction the water flows)
+1_1_11_1,The Cavern of Wrath,Waypoint to town
+1_1_town,Lioneye's Watch,Talk to Nessa
+1_1_town,Lioneye's Watch,Take Portal to Ship Graveyard
+1_1_9,The Ship Graveyard,Enter Ship Graveyard Cave
+1_1_9a,The Ship Graveyard Cave,Find Allflame (NPC) for quest item (Search diagonally opposite the entrance)
+1_1_9a,The Ship Graveyard Cave,Exit to Ship Graveyard
+1_1_9,The Ship Graveyard,Kill Fairgraves
+1_1_9,The Ship Graveyard,Return to town (Relog)
+1_1_town,Lioneye's Watch,Talk to Bestel for Passive Point
+1_1_town,Lioneye's Watch,Get remaining Act 1 gems from Nessa (Or revisit during Act 2)
+1_1_town,Lioneye's Watch,Waypoint to Cavern of Wrath
+1_1_11_1,The Cavern of Wrath,Follow water to Cavern of Anger (Follow the water in the direction it flows)
+1_1_11_2,The Cavern of Anger,Kill Merveil (Act 1 Final Boss) → Enter The Southern Forest (Act 2) (Follow the water to Merveil's Lair. Aim to be Level 11.5-12)
+1_2_1,The Southern Forest,Follow the edge path to The Forest Encampment (High-density zone - great for experience catch-up if underleveled)
+1_2_town,The Forest Encampment,Enter The Old Fields
+1_2_2,The Old Fields,Place Portal at The Den entrance (Only needed if getting 2nd Quicksilver Flask)
+1_2_2,The Old Fields,Follow road to The Crossroads (The road leads directly to the zone exit)
+1_2_3,The Crossroads,Activate Waypoint (Static layout - Waypoint is always at center)
+1_2_3,The Crossroads,"Waypoint to Town or take Portal to complete Den quest (Kill White Beast, then talk to Yeena for reward)"
+1_2_3,The Crossroads,Head to Chamber of Sins Level 1 (Exit is roughly northwest from the Waypoint)
+1_2_6_1,The Chamber of Sins Level 1,Enter Chamber of Sins Level 2 (Find the circular inner room - exit is behind Waypoint)
+1_2_6_2,The Chamber of Sins Level 2,Reach the central room (Waypoint icon on minimap points toward the exit)
+1_2_6_2,The Chamber of Sins Level 2,Complete Trial of Ascendancy
+1_2_6_2,The Chamber of Sins Level 2,Kill Fidelitas and collect Baleful Gem (Located in a long corridor. Aim for Level 14-15)
+1_2_6_2,The Chamber of Sins Level 2,Return to town (Relog)
+1_2_town,The Forest Encampment,Talk to Greust → Waypoint to Riverways
+1_2_7,The Riverways,Activate Waypoint → Follow road to Western Forest (Follow the road to find it. Broken bridges require movement skills.)
+1_2_9,The Western Forest,Activate Waypoint (Follow the road to locate it)
+1_2_9,The Western Forest,Enter The Weaver's Chambers (Opposite side of road from Waypoint)
+1_2_10,The Weaver's Chambers,"Kill The Weaver and collect Maligaro's Spike (Head northwest from entrance. If blocked, go north)"
+1_2_10,The Weaver's Chambers,Return to town (Relog)
+1_2_town,The Forest Encampment,Talk to Silk → Waypoint to Crossroads
+1_2_3,The Crossroads,Head to Broken Bridge (Exit is roughly north from center)
+1_2_4,The Broken Bridge,"Find hidden chest with 3 Rogue Exiles (Follow road to Waypoint, look for ruins nearby)"
+1_2_4,The Broken Bridge,Kill Kraityn and collect his Amulet (Follow the road to find Kraityn's camp)
+1_2_4,The Broken Bridge,Return to town (Relog)
+1_2_town,The Forest Encampment,Waypoint to Riverways
+1_2_7,The Riverways,Find trail between two pillars to Wetlands (Look for the distinctive two-pillar entrance)
+1_2_12,The Wetlands,Kill Oak and collect his Amulet (Look for the arena structure - only large building in zone)
+1_2_12,The Wetlands,Activate Waypoint
+1_2_12,The Wetlands,Waypoint to Western Forest
+1_2_9,The Western Forest,"Kill or Help Alira (Head southwest on road to torch, then follow side path)"
+1_2_9,The Western Forest,Kill Arteri and collect Thaumetic Emblem (Continue along main road to Blackguard camp)
+1_2_9,The Western Forest,Use Thaumetic Emblem on Seal and collect Baleful Gem or relog to town (Unlocks passage to Vaal Ruins)
+1_2_town,The Forest Encampment,Talk to Eramir (if killed all bandits) (Skip if you helped a bandit)
+1_2_town,The Forest Encampment,Waypoint to Act 1 Town
+1_1_town,Lioneye's Watch,Talk to Bestel for Passive Point
+1_1_town,Lioneye's Watch,Get remaining Act 1 gems from Nessa (If not collected earlier)
+1_1_town,Lioneye's Watch,Waypoint to Crossroads
+1_2_3,The Crossroads,Head to Fellshrine Ruins (Exit is roughly east from center)
+1_2_15,The Fellshrine Ruins,Follow road to The Crypt (Kill insect packs to maintain flask and frenzy charges)
+1_2_5_1,The Crypt Level 1,Complete Trial of Ascendancy (Same path leads to both Trial and Level 2)
+1_2_5_1,The Crypt Level 1,Enter The Crypt Level 2
+1_2_5_2,The Crypt Level 2,Find altar and collect Golden Hand (Search diagonally opposite the entrance)
+1_2_5_2,The Crypt Level 2,Return to town (Portal or Relog) (Portal recommended - Relog sends to Act 1)
+1_2_town,The Forest Encampment,Talk to Yeena
+1_2_town,The Forest Encampment,Waypoint to Wetlands
+1_2_12,The Wetlands,Use Baleful Gem to poison the tree roots at Vaal Ruins entrance (Entrance to Vaal Ruins is near waypoint)
+1_2_12,The Wetlands,Enter The Vaal Ruins
+1_2_11,The Vaal Ruins,"Navigate through Vaal Ruins and enter The Northern Forest (S-shaped or L-shaped zone. Walk forward until hitting dead end, then turn)"
+1_2_8,The Northern Forest,Enter The Caverns (Follow waterside eastern edge heading north. Rituals offer great experience.)
+1_2_14_2,The Caverns,Activate Waypoint
+1_2_14_2,The Caverns,Find hidden crafting recipe (Locked door with 2 pillar switches)
+1_2_14_2,The Caverns,Find entrance to Ancient Pyramid (Search the corners of the zone)
+1_2_14_3,The Ancient Pyramid,"Navigate to Pyramid Apex (1st stairs in random corner, 2nd diagonally opposite)"
+1_2_14_3,The Ancient Pyramid,Kill Vaal Oversoul (Act 2 Final Boss) → Enter The City of Sarn (Act 3) (Aim for Level 20-22)
+1_3_1,The City of Sarn,Help Clarissa (kill Blackguard members nearby) (Clarissa is at a pillar near the first staircase to the Docks area)
+1_3_1,The City of Sarn,Activate Crafting Recipe
+1_3_1,The City of Sarn,Talk to Clarissa
+1_3_1,The City of Sarn,Follow edge path to The Sarn Encampment (Follow the 5 o'clock edge)
+1_3_town,The Sarn Encampment,Enter The Slums
+1_3_2,The Slums,Find and enter The Crematorium (Search diagonally opposite from entrance)
+1_3_3_1,The Crematorium,Complete Trial of Ascendancy (Visible in fog while still undiscovered)
+1_3_3_1,The Crematorium,Kill Piety for Tolman's Bracelet (Boss location visible in fog)
+1_3_3_1,The Crematorium,Activate Crafting Recipe
+1_3_3_1,The Crematorium,Return to town (Relog)
+1_3_town,The Sarn Encampment,Talk to Maramoa
+1_3_town,The Sarn Encampment,Talk to Clarissa for Sewer Keys
+1_3_town,The Sarn Encampment,Return to The Slums
+1_3_2,The Slums,Find and open Sewer Grating
+1_3_2,The Slums,Enter The Sewers
+1_3_10_1,The Sewers,Activate Waypoint
+1_3_10_1,The Sewers,Collect all 3 Platinum Busts (2nd bust location indicates 3rd bust direction)
+1_3_10_1,The Sewers,Enter The Marketplace
+1_3_5,The Marketplace,Activate Waypoint (Zone extends based on water location)
+1_3_5,The Marketplace,Find and enter The Catacombs (Located nearby waypoint)
+1_3_6,The Catacombs,"Complete Trial of Ascendancy (Move east from starting room if possible, north otherwise)"
+1_3_6,The Catacombs,Activate Crafting Recipe (Often found parallel to arena entrance wall)
+1_3_6,The Catacombs,Return to town (Relog)
+1_3_town,The Sarn Encampment,Talk to Hargan for Passive Point (Check vendors for 4-link items if Level 23+)
+1_3_town,The Sarn Encampment,Waypoint to The Marketplace
+1_3_5,The Marketplace,"Enter The Battlefront (Usually 1 or 12 o'clock, rarely 5 o'clock)"
+1_3_7,The Battlefront,Head northwest to activate Waypoint (Waypoint is on first elevation layer)
+1_3_7,The Battlefront,Head 5 o'clock to collect Ribbon Spool
+1_3_7,The Battlefront,"Enter Solaris Temple Level 1 (if not Level 23½) (Head 1 o'clock to entrance. If already Level 23½+, skip to Docks)"
+1_3_8_1,The Solaris Temple Level 1,"Navigate to Solaris Temple Level 2 (Walk forward until wall, turn toward zone extension)"
+1_3_8_2,The Solaris Temple Level 2,Activate Waypoint
+1_3_8_2,The Solaris Temple Level 2,Activate Crafting Recipe (Near waypoint in Eternal Laboratory arena)
+1_3_8_2,The Solaris Temple Level 2,Waypoint to The Battlefront
+1_3_7,The Battlefront,"Head 7 o'clock to The Docks (North of waypoint, at end of river)"
+1_3_9,The Docks,Find Thaumetic Sulphite (Excellent zone for XP farming)
+1_3_9,The Docks,Return to town (Relog)
+1_3_town,The Sarn Encampment,Waypoint to Solaris Temple Level 2
+1_3_8_2,The Solaris Temple Level 2,Talk to Dialla (Follow red carpet)
+1_3_8_2,The Solaris Temple Level 2,Talk to Dialla again for Infernal Talc
+1_3_8_2,The Solaris Temple Level 2,Waypoint to The Sewers
+1_3_10_1,The Sewers,Use Infernal Talc on Undying Blockage
+1_3_10_1,The Sewers,Activate Crafting Recipe
+1_3_10_1,The Sewers,Enter The Ebony Barracks
+1_3_13,The Ebony Barracks,Activate Waypoint
+1_3_13,The Ebony Barracks,Head 7 o'clock to kill General Gravicius (Rewards Level 28 Skill Gems)
+1_3_13,The Ebony Barracks,Head 7 o'clock to Lunaris Temple Level 1
+1_3_14_1,The Lunaris Temple Level 1,Navigate to Lunaris Temple Level 2 (Follow red carpet)
+1_3_14_2,The Lunaris Temple Level 2,"Kill Piety for Tower Key (Follow stairs going up, then single wagon at fork)"
+1_3_14_2,The Lunaris Temple Level 2,Activate Crafting Recipe
+1_3_14_2,The Lunaris Temple Level 2,Return to town (Relog)
+1_3_town,The Sarn Encampment,Talk to Grigor for Passive Point
+1_3_town,The Sarn Encampment,Talk to Maramoa
+1_3_town,The Sarn Encampment,Visit Hideout or buy gems from Lilly Roth (Check for off-class support gems)
+1_3_town,The Sarn Encampment,Waypoint to The Ebony Barracks
+1_3_13,The Ebony Barracks,Head 1 o'clock to The Imperial Gardens
+1_3_15,The Imperial Gardens,Follow road and activate Waypoint
+1_3_15,The Imperial Gardens,"Head 12 o'clock off-road for Trial of Ascendancy (North corner, off the main road)"
+1_3_15,The Imperial Gardens,Activate Crafting Recipe
+1_3_15,The Imperial Gardens,Return to town (Relog)
+1_3_town,The Sarn Encampment,Waypoint to The Imperial Gardens
+1_3_15,The Imperial Gardens,Head 7 o'clock to The Library (For Level 31 and off-class support gems)
+1_3_17_1,The Library,Activate Waypoint
+1_3_17_1,The Library,Find loose candle and enter The Archives
+1_3_17_2,The Archives,Collect all 4 Golden Pages (Hidden crafting bench: candle in narrow corridor)
+1_3_17_2,The Archives,Return to town (Relog)
+1_3_town,The Sarn Encampment,Gather some currency (Prepare for gem purchases)
+1_3_town,The Sarn Encampment,Waypoint to The Library
+1_3_17_1,The Library,Talk to Siosa
+1_3_17_1,The Library,Waypoint to The Imperial Gardens
+1_3_15,The Imperial Gardens,Complete Normal Labyrinth (Level 33) (Build-dependent. Another reminder follows later)
+1_3_15,The Imperial Gardens,Follow wagons to Sceptre of God (Follow the road with wagons)
+1_3_18_1,The Sceptre of God,Navigate to Upper Sceptre of God (Floors are circular - arena stairs spawn every 90°)
+1_3_18_2,The Upper Sceptre of God,Find and enter Tower Rooftop arena (Same layout rules - head 1 o'clock after Scion cage)
+1_3_18_2,The Upper Sceptre of God,Kill Dominus
+1_3_18_2,The Upper Sceptre of God,Enter The Aqueduct (Act 4)
+1_4_1,The Aqueduct,Rush to Highgate (Run through without killing - save time for later zones)
+1_4_1,The Aqueduct,Enter Highgate
+1_4_town,Highgate,Enter The Dried Lake
+1_4_2,The Dried Lake,Kill Voll and collect Deshret's Banner (Look for the book icon on minimap - it appears before the arena)
+1_4_2,The Dried Lake,Activate Crafting Recipe
+1_4_2,The Dried Lake,Return to Highgate (Relog)
+1_4_town,Highgate,Enter The Mines Level 1
+1_4_3_1,The Mines Level 1,Activate Crafting Recipe
+1_4_3_1,The Mines Level 1,"Navigate to The Mines Level 2 (Move northwest when possible, otherwise follow the zone)"
+1_4_3_2,The Mines Level 2,Free Deshret's Spirit (Look for the glowing spirit as you progress through)
+1_4_3_2,The Mines Level 2,Enter The Crystal Veins
+1_4_3_3,The Crystal Veins,Activate Waypoint (Aim to reach Level 31 by this point)
+1_4_3_3,The Crystal Veins,Activate Crafting Recipe
+1_4_3_3,The Crystal Veins,Waypoint to Highgate
+1_4_town,Highgate,Talk to Tasuni for Passive Point
+1_4_town,Highgate,Talk to Oyun
+1_4_town,Highgate,Waypoint to The Sarn Encampment (Act 3) (To complete Normal Labyrinth if not done yet)
+Labyrinth_Airlock,Aspirants' Plaza,Complete Normal Labyrinth (Enter Aspirants' Plaza from Act 3 Town)
+1_4_town,Highgate,Waypoint to The Crystal Veins
+1_4_3_3,The Crystal Veins,Enter Daresso's Dream
+1_4_5_1,Daresso's Dream,"Navigate to The Grand Arena (Prioritize moving east, then south to reach east, then north)"
+1_4_5_2,The Grand Arena,"Kill Daresso and collect Eye of Desire (Follow corridors. At splits, take north or west options)"
+1_4_5_2,The Grand Arena,Activate Crafting Recipe
+1_4_5_2,The Grand Arena,Waypoint to Highgate (Portal places you right next to waypoint)
+1_4_town,Highgate,Waypoint to The Crystal Veins
+1_4_3_3,The Crystal Veins,Enter Kaom's Dream
+1_4_4_1,Kaom's Dream,"Navigate to Kaom's Stronghold (Head 1 o'clock, then follow bridges to the exit)"
+1_4_4_3,Kaom's Stronghold,Kill Kaom and collect Eye of Fury (Enter Caldera of the King arena to fight the boss)
+1_4_4_3,Kaom's Stronghold,Activate Crafting Recipe
+1_4_4_3,Kaom's Stronghold,Portal to Highgate (Portal places you right next to waypoint)
+1_4_town,Highgate,Waypoint to The Crystal Veins
+1_4_3_3,The Crystal Veins,Talk to Lady Dialla
+1_4_3_3,The Crystal Veins,Enter Belly of the Beast Level 1
+1_4_6_1,The Belly of the Beast Level 1,"Navigate to Belly of the Beast Level 2 (Prioritize west, then north, then east. Reverse on dead ends)"
+1_4_6_2,The Belly of the Beast Level 2,Enter Bowels of the Beast and kill Piety
+1_4_6_2,The Belly of the Beast Level 2,Talk to Piety after defeating her
+1_4_6_2,The Belly of the Beast Level 2,Activate Crafting Recipe
+1_4_6_2,The Belly of the Beast Level 2,Enter The Harvest
+1_4_6_3,The Harvest,"Kill Doedre, Maligaro, and Shavronne (Static layout: 1 boss east, 2 bosses west of waypoint)"
+1_4_6_3,The Harvest,Talk to Piety after killing all three
+1_4_6_3,The Harvest,Enter The Black Core and kill Malachai (Final Act 4 boss - recommended Level 34-35)
+1_4_6_3,The Harvest,Return to Highgate (Relog)
+1_4_town,Highgate,Talk to Dialla
+1_4_town,Highgate,Enter The Ascent
+1_4_7,The Ascent,"Navigate to portal device (Move north, cross long bridge, hug east edge after encampment)"
+1_4_7,The Ascent,Activate Crafting Recipe → Activate portal device and enter Act 5 (Located in the encampment midway through the zone)
+1_5_1,The Slave Pens,Activate Crafting Recipe
+1_5_1,The Slave Pens,Navigate through corridor with hanged Karui (Follow south edge to reach the corridor)
+1_5_1,The Slave Pens,Kill Overseer Krow (Located at the end of the zone near the tower entrance)
+1_5_1,The Slave Pens,Enter Overseer's Tower
+1_5_town,Overseer's Tower,Talk to Lani
+1_5_town,Overseer's Tower,Enter The Control Blocks
+1_5_2,The Control Blocks,Collect Miasmeter (Head south-west from entrance)
+1_5_2,The Control Blocks,Kill Justicar Casticus and collect Eyes of Zeal (Head north from entrance - use blink skills through broken gates to skip sections)
+1_5_2,The Control Blocks,Enter Oriath Square
+1_5_3,Oriath Square,Enter The Templar Courts (Head north from entrance)
+1_5_4,The Templar Courts,Enter The Chamber of Innocence (Move in a clockwise direction through the courts)
+1_5_5,The Chamber of Innocence,Navigate to Sanctum of Innocence (Follow outer wall counter-clockwise - recommended level 37+)
+1_5_5,The Chamber of Innocence,Activate Crafting Recipe (Located in a side corridor about halfway through the zone)
+1_5_5,The Chamber of Innocence,Kill High Templar Avarius
+1_5_5,The Chamber of Innocence,Return to Overseer's Tower (Relog)
+1_5_town,Overseer's Tower,Talk to Lani
+1_5_town,Overseer's Tower,Talk to Vilenta
+1_5_town,Overseer's Tower,Talk to Bannon to unlock as vendor (This unlocks Bannon as armor and weapon vendor in town)
+1_5_town,Overseer's Tower,Waypoint to The Chamber of Innocence
+1_5_5,The Chamber of Innocence,Enter The Torched Courts
+1_5_4b,The Torched Courts,Enter The Ruined Square (Move counter-clockwise through the zone)
+1_5_3b,The Ruined Square,Activate Waypoint (Fixed layout. Head south-west from entrance)
+1_5_3b,The Ruined Square,Enter The Ossuary
+1_5_4,The Ossuary,Find Sign of Purity (Located in a tomb area within the zone)
+1_5_4,The Ossuary,Activate Crafting Recipe
+1_5_4,The Ossuary,Return to Overseer's Tower (Relog)
+1_5_town,Overseer's Tower,Waypoint to The Ruined Square
+1_5_3b,The Ruined Square,Move to central square (Head south from waypoint to reach the large central square)
+1_5_3b,The Ruined Square,Kill Utula for weapon quest (Move east from the square center)
+1_5_3b,The Ruined Square,"Enter The Reliquary (From the central square, move south-east)"
+1_5_7,The Reliquary,Collect 3x Kitava's Torments (Found near the corners - choose a direction and follow the outer edge)
+1_5_7,The Reliquary,Activate Crafting Recipe
+1_5_7,The Reliquary,"Return to Overseer's Tower (Relog or waypoint) (After collecting the third relic, waypoint or die to respawn in town (softcore only))"
+1_5_town,Overseer's Tower,Talk to Lani
+1_5_town,Overseer's Tower,Talk to Bannon for weapon quest (Opens arena fight with Utula - only if you killed Utula earlier)
+1_5_town,Overseer's Tower,Waypoint to The Ruined Square
+1_5_3b,The Ruined Square,Enter The Cathedral Rooftop (Move south from the central square)
+1_5_8,The Cathedral Rooftop,Navigate to Cathedral Apex (Move north-east through the rooftop)
+1_5_8,The Cathedral Rooftop,Kill Kitava (Final boss of Act 5 - permanent -30% resistance penalty after death)
+1_5_8,The Cathedral Rooftop,Talk to Lilly Roth
+1_5_8,The Cathedral Rooftop,Sail to Lioneye's Watch (Act 6) (Beginning of Part 2 - you will revisit Wraeclast)
+2_6_1,The Twilight Strand,Full clear the zone (Lilly's countdown displays when 5 enemies remain)
+2_6_1,The Twilight Strand,Return to Lioneye's Watch
+2_6_town,Lioneye's Watch,Talk to Lilly Roth
+2_6_town,Lioneye's Watch,Waypoint to Hideout / Buy Gems (Skip gems if no PoB imported)
+2_6_town,Lioneye's Watch,Enter The Coast
+2_6_2,The Coast,Activate Waypoint
+2_6_2,The Coast,Enter The Mud Flats
+2_6_4,The Mud Flats,Kill Dishonoured Queen for Eye of Conquest (Located at the former Submerged Passage entrance (east edge))
+2_6_4,The Mud Flats,"Find and enter Karui Fortress (From Queen, follow the north edge eastward)"
+2_6_5,The Karui Fortress,Enter Tukohama's Keep and kill Tukohama
+2_6_5,The Karui Fortress,Activate Crafting Recipe
+2_6_5,The Karui Fortress,"Exit north from boss arena, head to The Ridge (After exiting Tukohama's arena, move east then north to the exit)"
+2_6_6,The Ridge,Activate Waypoint
+2_6_6,The Ridge,Portal to town then waypoint to Coast (or direct portal to Coast) (Can portal directly to Coast or via town waypoint)
+2_6_2,The Coast,Enter The Tidal Island (Skip if you have a strong belt equipped)
+2_6_3,The Tidal Island,Collect the Manuscript
+2_6_3,The Tidal Island,Return to town (Relog)
+2_6_town,Lioneye's Watch,Talk to Lilly for Respec Points
+2_6_town,Lioneye's Watch,Talk to Tarkleigh
+2_6_town,Lioneye's Watch,Talk to Bestel for Rare Belt
+2_6_town,Lioneye's Watch,Waypoint to The Ridge
+2_6_6,The Ridge,Navigate to The Lower Prison
+2_6_7_1,The Lower Prison,Complete the Trial of Ascendancy (Follow right wall from waypoint to find the trial)
+2_6_7_1,The Lower Prison,Activate Crafting Recipe
+2_6_7_1,The Lower Prison,Enter Shavronne's Tower
+2_6_7_2,Shavronne's Tower,Reach the Prison Rooftop and kill Shavronne & Brutus
+2_6_7_2,Shavronne's Tower,Enter Warden's Chambers
+2_6_7_2,Shavronne's Tower,Activate Crafting Recipe
+2_6_7_2,Shavronne's Tower,Enter Prisoner's Gate
+2_6_8,Prisoner's Gate,Enter Abberath's Arena and kill Abberath (Arena is in the side area behind a ledge)
+2_6_8,Prisoner's Gate,Follow the road to Western Forest (Stay on the main road to reach the exit)
+2_6_9,The Western Forest,Follow the road to The Riverways (Stay on the main road)
+2_6_9,The Western Forest,Look for Crafting Recipe on side path (Side path marked by a torch on the road)
+2_6_10,The Riverways,Activate Waypoint (Follow the main road to find the waypoint)
+2_6_10,The Riverways,Find trail between 2 pillars leading to Wetlands (Pebble path at waypoint leads to Wetlands)
+2_6_11,The Wetlands,Find Spawning Grounds and kill Ryslatha (Head south to locate the boss arena)
+2_6_11,The Wetlands,Return to town (Relog)
+2_6_town,Lioneye's Watch,Talk to Tarkleigh
+2_6_town,Lioneye's Watch,Talk to Bestel
+2_6_town,Lioneye's Watch,Waypoint to The Riverways
+2_6_10,The Riverways,"Follow road to blockage, head south to Southern Forest (At the blocked road, head south for the exit)"
+2_6_12,The Southern Forest,Navigate to Cavern of Anger (Great zone for experience farming if needed)
+2_6_13,The Cavern of Anger,"Collect the Black Flag (Arena exit usually south or east, rarely west)"
+2_6_13,The Cavern of Anger,Find and enter The Beacon
+2_6_14,The Beacon,Activate the Beacon and burn the Black Flag (Complete the pillar puzzle to reach the beacon)
+2_6_14,The Beacon,Activate Crafting Recipe
+2_6_14,The Beacon,Talk to Weylam and sail to Brine King's Reef
+2_6_15,The Brine King's Reef,Kill the Brine King (Final boss of Act 6)
+2_6_15,The Brine King's Reef,Travel to The Southern Forest (Act 7) (Beginning of Act 7)
+2_7_2,The Southern Forest,Navigate to The Broken Bridge (Follow the road upward)
+2_7_1,The Broken Bridge,Activate Waypoint (Follow the road to the waypoint)
+2_7_1,The Broken Bridge,Collect Silver Locket from nearby ruins (Located in the castle ruins near the waypoint)
+2_7_1,The Broken Bridge,Follow the road to The Crossroads
+2_7_2,The Crossroads,Activate Waypoint (Follow the road - waypoint is centrally located)
+2_7_2,The Crossroads,"Head south from waypoint to Fellshrine Ruins (North leads to Chamber of Sins, south to Fellshrine)"
+2_7_3,The Fellshrine Ruins,Follow the road to The Crypt (Stay on the main road through the ruins)
+2_7_4,The Crypt,Complete Trial of Ascendancy (Trial is mandatory for progression)
+2_7_4,The Crypt,Activate Crafting Recipe
+2_7_4,The Crypt,Find the Sarcophagus and collect Maligaro's Map (Look for the arena-marked sarcophagus)
+2_7_4,The Crypt,Return to The Bridge Encampment (Relog)
+2_7_town,The Bridge Encampment,Turn in Silver Locket to Weylam
+2_7_town,The Bridge Encampment,Waypoint to The Crossroads
+2_7_2,The Crossroads,Head north from waypoint to Chamber of Sins Level 1 (North of the waypoint leads to Chamber of Sins)
+2_7_5_1,The Chamber of Sins Level 1,Activate Waypoint (Waypoint indicates the direction to Chamber of Sins Level 2)
+2_7_5_1,The Chamber of Sins Level 1,Activate Crafting Recipe
+2_7_5_1,The Chamber of Sins Level 1,Use Maligaro's Map in the Map Device (Map Device is in the central area)
+2_7_5_1,The Chamber of Sins Level 1,Enter Maligaro's Sanctum
+2_7_5_map,Maligaro's Sanctum,Navigate to Maligaro's Workshop and kill Maligaro (Follow edges and bridges to reach the workshop)
+2_7_5_map,Maligaro's Sanctum,Collect Maligaro's Venom (Drops from Maligaro)
+2_7_5_map,Maligaro's Sanctum,"Return to Chamber of Sins Level 1 (Relog) (Relog for league start, portal for non-league start)"
+2_7_5_1,The Chamber of Sins Level 1,"Return to town and turn in quests (Helena: Essence of the Artist, Weylam: Silver Locket)"
+2_7_5_1,The Chamber of Sins Level 1,Talk to Silk for Obsidian Key (Silk appears after returning from Maligaro's Sanctum)
+2_7_5_1,The Chamber of Sins Level 1,Find and enter Chamber of Sins Level 2 (Waypoint points toward the exit direction)
+2_7_5_2,The Chamber of Sins Level 2,Complete Trial of Ascendancy
+2_7_5_2,The Chamber of Sins Level 2,Activate Crafting Recipe
+2_7_5_2,The Chamber of Sins Level 2,Unlock the Secret Passage with Obsidian Key (Secret passage leads to The Den)
+2_7_5_2,The Chamber of Sins Level 2,Enter The Den
+2_7_6,The Den,Navigate to The Ashen Fields
+2_7_7,The Ashen Fields,Optional: Complete Cruel Labyrinth (Level 55+) (Build-dependent timing - another reminder later if skipped)
+2_7_7,The Ashen Fields,Kill Greust/Ralakesh (Head toward the northwest section of the zone)
+2_7_7,The Ashen Fields,Enter The Northern Forest
+2_7_8,The Northern Forest,Activate Waypoint (Place portal at Dread Thicket entrance when found)
+2_7_8,The Northern Forest,Waypoint to The Bridge Encampment
+2_7_town,The Bridge Encampment,Talk to Eramir for Passive Point
+2_7_town,The Bridge Encampment,Talk to Helena for Essence of the Artist reward
+2_7_town,The Bridge Encampment,Waypoint to Lioneye's Watch (Act 6)
+2_6_town,Lioneye's Watch,Talk to Bestel
+2_6_town,Lioneye's Watch,Waypoint to The Northern Forest
+2_7_8,The Northern Forest,Navigate to The Causeway (Look for Dread Thicket entrance and place portal)
+2_7_10,The Causeway,Activate Crafting Recipe
+2_7_10,The Causeway,Collect Kishara's Star (Quest item found in the zone)
+2_7_10,The Causeway,Enter The Vaal City
+2_7_11,The Vaal City,Activate Waypoint
+2_7_11,The Vaal City,Waypoint to The Northern Forest
+2_7_8,The Northern Forest,Enter The Dread Thicket (Use portal placed earlier if available)
+2_7_9,The Dread Thicket,Activate Crafting Recipe
+2_7_9,The Dread Thicket,Collect 7 Fireflies (Fireflies are scattered throughout the zone)
+2_7_9,The Dread Thicket,Find Gruthkul's Den and kill Gruthkul (Arena-marked den in the zone)
+2_7_9,The Dread Thicket,Return to The Bridge Encampment (Relog)
+2_7_town,The Bridge Encampment,Talk to Weylam
+2_7_town,The Bridge Encampment,Talk to Eramir
+2_7_town,The Bridge Encampment,Optional: Helena offers Amulet swap for Greust Necklace (Only if portal close to Azmeri Shrine)
+2_7_town,The Bridge Encampment,Regular option: Complete Cruel Labyrinth (Recommended timing if not done earlier)
+2_7_town,The Bridge Encampment,Waypoint to The Vaal City
+2_7_11,The Vaal City,Talk to Yeena
+2_7_11,The Vaal City,Enter Temple of Decay Level 1
+2_7_12_1,The Temple of Decay Level 1,Navigate to Temple of Decay Level 2 (Stairs are diagonally opposite - move in Z-pattern)
+2_7_12_2,The Temple of Decay Level 2,Activate Crafting Recipe (Search for recipe while navigating)
+2_7_12_2,The Temple of Decay Level 2,Find entrance to Arakaali's Web (Arena entrance diagonally opposite - use Z-pattern movement)
+2_7_12_2,The Temple of Decay Level 2,Kill Arakaali (Final boss of Act 7)
+2_7_12_2,The Temple of Decay Level 2,Enter The Sarn Ramparts (Act 8) (Beginning of Act 8)
+2_8_1,The Sarn Ramparts,Navigate to the Waypoint
+2_8_1,The Sarn Ramparts,Activate Waypoint
+2_8_1,The Sarn Ramparts,Complete Cruel Labyrinth (Latest recommended timing for Lab 2)
+2_8_1,The Sarn Ramparts,"Travel to The Sarn Encampment (At the staircase, move west or east to reach town)"
+2_8_town,The Sarn Encampment,Enter The Toxic Conduits
+2_8_2_1,The Toxic Conduits,Navigate to Doedre's Cesspool
+2_8_2_2,Doedre's Cesspool,Enter The Cauldron and kill Doedre (Starting area forms a loop with one exit)
+2_8_2_2,Doedre's Cesspool,Activate Crafting Recipe
+2_8_2_2,Doedre's Cesspool,Exit through Sewer Outlet to The Quay (Continue south after defeating Doedre)
+2_8_8,The Quay,Collect the Ankh of Eternity (Follow the left edge along the waterside from the start)
+2_8_8,The Quay,Enter Resurrection Site and kill Tolman (Move northeast to find the arena entrance)
+2_8_8,The Quay,Find and enter The Grain Gate
+2_8_9,The Grain Gate,Kill the Gemling Legionnaires (Look for corpses near doorways marking important passages. Quest marker shows as a book icon)
+2_8_9,The Grain Gate,Find and enter The Underbelly (Look for indoor passages marked with nearby corpses)
+2_8_14,The Hidden Underbelly,"Place Portal at the T-junction (Navigate west from entrance, heading south)"
+2_8_14,The Hidden Underbelly,"Navigate to The Solaris Concourse (From T-junction, take the correct path based on layout)"
+2_8_11,The Solaris Concourse,Find Solaris Temple Level 1 entrance
+2_8_12_1,The Solaris Temple Level 1,Activate Waypoint
+2_8_12_1,The Solaris Temple Level 1,Waypoint to The Sarn Encampment
+2_8_town,The Sarn Encampment,Take Portal back to The Underbelly
+2_8_14,The Hidden Underbelly,"Navigate to The Bath House (From T-junction portal, take the southern path)"
+2_8_5,The Bath House,Place Portal near entrance (Portal before exploring further)
+2_8_5,The Bath House,Navigate to The Lunaris Concourse (Follow the southwest edge)
+2_8_6,The Lunaris Concourse,Activate Waypoint (Waypoint is northeast from Bath House entrance)
+2_8_6,The Lunaris Concourse,Waypoint to The Sarn Encampment
+2_8_town,The Sarn Encampment,Take Portal back to The Bath House
+2_8_5,The Bath House,Complete Trial of Ascendancy (Look for quest marker on minimap)
+2_8_5,The Bath House,Activate Crafting Recipe
+2_8_5,The Bath House,Navigate to The High Gardens (Follow the southwest edge)
+2_8_4,The High Gardens,Enter Pools of Terror and kill Yugul (Follow the main path through the gardens)
+2_8_4,The High Gardens,Portal to The Sarn Encampment
+2_8_town,The Sarn Encampment,Talk to Hargan for Passive Point
+2_8_town,The Sarn Encampment,Talk to Maramoa for Passive Point
+2_8_town,The Sarn Encampment,Talk to Clarissa for Passive Point
+2_8_town,The Sarn Encampment,Waypoint to Solaris Temple Level 1
+2_8_12_1,The Solaris Temple Level 1,Navigate to Solaris Temple Level 2
+2_8_12_2,The Solaris Temple Level 2,Kill Dawn and collect the Sun Orb
+2_8_12_2,The Solaris Temple Level 2,Activate Crafting Recipe
+2_8_12_2,The Solaris Temple Level 2,Return to The Sarn Encampment (Relog)
+2_8_town,The Sarn Encampment,Waypoint to The Lunaris Concourse
+2_8_6,The Lunaris Concourse,"Navigate to Lunaris Temple Level 1 (From waypoint, head northwest. Door icon appears on minimap)"
+2_8_7_1_,The Lunaris Temple Level 1,Navigate to Lunaris Temple Level 2 (Follow the carpet path)
+2_8_7_2,The Lunaris Temple Level 2,"Kill Dusk and collect the Moon Orb (Consistent pattern: follow stairs up, single flower pot marks the fork)"
+2_8_7_2,The Lunaris Temple Level 2,Return to The Sarn Encampment (Relog)
+2_8_town,The Sarn Encampment,Waypoint to The Lunaris Concourse
+2_8_6,The Lunaris Concourse,Navigate northeast to The Harbour Bridge
+2_8_13,The Harbour Bridge,Enter Sky Shrine and kill Lunaris & Solaris (Recommended Level 54+. Act 8 final boss)
+2_8_13,The Harbour Bridge,Enter The Blood Aqueduct (Act 9) (Beginning of Act 9. Farm to Level 58-62 here)
+2_9_1,The Blood Aqueduct,Travel northeast to find Highgate (Optional: Talk to Sin once. Side passages contain guaranteed Magic packs for extra experience.)
+2_9_1,The Blood Aqueduct,Enter Highgate
+2_9_town,Highgate,Exit to The Descent
+2_9_2,The Descent,Navigate to The Vastiri Desert
+2_9_3,The Vastiri Desert,Head east to activate Waypoint (Waypoint is always east of the entrance)
+2_9_3,The Vastiri Desert,Find the Storm-Weathered Chest (Contains The Storm Blade quest item)
+2_9_3,The Vastiri Desert,Navigate west to The Foothills
+2_9_5,The Foothills,Head north to activate Waypoint
+2_9_5,The Foothills,Enter The Boiling Lake
+2_9_6,The Boiling Lake,Kill Basilisk and collect Basilisk Acid (Head northeast toward the northern corner)
+2_9_6,The Boiling Lake,Activate Crafting Bench
+2_9_6,The Boiling Lake,Return to Highgate (Relog)
+2_9_town,Highgate,Talk to Petarus & Vanja
+2_9_town,Highgate,Talk to Sin
+2_9_town,Highgate,Talk to Petarus again to collect Bottled Storm
+2_9_town,Highgate,Waypoint to The Vastiri Desert
+2_9_3,The Vastiri Desert,Navigate north to The Oasis
+2_9_4,The Oasis,Find The Sand Pit entrance (Usually along the eastern edge)
+2_9_4,The Oasis,Enter The Sand Pit
+2_9_4,The Oasis,Kill Shakari
+2_9_4,The Oasis,Return to Highgate (Relog) (Portal places you next to the waypoint)
+2_9_town,Highgate,Talk to Irasha
+2_9_town,Highgate,Waypoint to The Foothills
+2_9_5,The Foothills,Navigate west to The Tunnel
+2_9_7,The Tunnel,Complete Trial of Ascendancy (Found at the first tunnel split (East/West))
+2_9_7,The Tunnel,Access Crafting Bench (Located in a side corridor)
+2_9_7,The Tunnel,Follow main path northeast to The Quarry (Exit is northeast from the entrance)
+2_9_8,The Quarry,Head west to activate Waypoint
+2_9_8,The Quarry,Access Crafting Bench
+2_9_8,The Quarry,Search west and north for The Refinery (Search the western and northern sections)
+2_9_9,The Refinery,Kill Adus and collect Trarthan Powder (Follow the cart tracks to the boss arena)
+2_9_9,The Refinery,Access Crafting Bench (Found where the cart tracks end at a grate)
+2_9_9,The Refinery,Return to Highgate (Relog)
+2_9_town,Highgate,Waypoint to The Quarry
+2_9_8,The Quarry,Talk to Sin
+2_9_8,The Quarry,Search south and north to enter The Belly of the Beast
+2_9_10_1,The Belly of the Beast,Navigate to The Rotting Core
+2_9_10_2,The Rotting Core,Clear 3 sub-areas and find The Black Heart entrance (Follow the zone passages. Second tunnel in main room leads forward.)
+2_9_10_2,The Rotting Core,Kill The Depraved Trinity (Act 9 final boss. Recommended Level 60+)
+2_9_10_2,The Rotting Core,Talk to Sin
+2_9_10_2,The Rotting Core,Talk to Lilly Roth to sail to Oriath Docks (Can portal to town during kill animation to skip loot. Waypoint from town places you near Act 10 rooftop entrance.)
+2_9_town,Highgate,Talk to Irasha for 2 Passive Points (Return to town before sailing to Act 10 to claim reward)
+2_10_town,Oriath Docks,Enter The Cathedral Rooftop
+2_10_1,The Cathedral Rooftop,Rescue Bannon (Bannon is North of the entrance)
+2_10_1,The Cathedral Rooftop,Enter Cathedral Apex and kill Plaguewing
+2_10_1,The Cathedral Rooftop,Enter The Ravaged Square
+2_10_2,The Ravaged Square,Place Portal at Blood Fountain (Static layout - Blood Fountain is South-East of entrance. North bridge is broken.)
+2_10_2,The Ravaged Square,"Activate Waypoint (North-East from Blood Fountain. Can dash over broken bridge with movement skills, or go South-East then North)"
+2_10_2,The Ravaged Square,"Enter The Torched Courts (South of Waypoint, follow snake pattern)"
+2_10_3,The Torched Courts,Enter The Desecrated Chambers (Semi-static layout. Move clockwise around the zone)
+2_10_4,The Desecrated Chambers,Kill Avarius and collect Staff of Avarius
+2_10_4,The Desecrated Chambers,"Activate Crafting Recipe (In side corridor, about halfway through the zone)"
+2_10_4,The Desecrated Chambers,Return to town (Relog)
+2_10_town,Oriath Docks,Talk to Bannon
+2_10_town,Oriath Docks,Talk to Lani
+2_10_town,Oriath Docks,Waypoint to The Ravaged Square
+2_10_2,The Ravaged Square,Enter The Control Blocks (South-West from Blood Fountain. Look for openings in house walls twice)
+2_10_7,The Control Blocks,Kill Vilenta (Boss arena in North-West corner. Move along North edge heading West.)
+2_10_7,The Control Blocks,Return to town (Relog)
+2_10_town,Oriath Docks,Talk to Lani for quest reward
+2_10_town,Oriath Docks,Waypoint to The Ravaged Square
+2_10_2,The Ravaged Square,Talk to Innocence to unlock The Canals
+2_10_2,The Ravaged Square,Enter The Ossuary
+2_10_9,The Ossuary,Activate Crafting Recipe
+2_10_9,The Ossuary,Complete Labyrinth Trial (Follow one edge until you find the trial)
+2_10_9,The Ossuary,Return to town (Relog)
+2_10_town,Oriath Docks,Complete Merciless Labyrinth (Recommended before fighting Kitava)
+2_10_town,Oriath Docks,Waypoint to The Ravaged Square
+2_10_2,The Ravaged Square,Enter The Canals
+2_10_5,The Canals,Enter The Feeding Trough (Move North whenever possible)
+2_10_6,The Feeding Trough,"Activate Crafting Recipe (On West walkway, near Sin)"
+2_10_6,The Feeding Trough,Talk to Sin
+2_10_6,The Feeding Trough,Enter Altar of Hunger and kill Kitava (Walk straight North-East on West walkway)
+2_10_6,The Feeding Trough,Talk to Sin after defeating Kitava
+2_10_6,The Feeding Trough,Return to Oriath Docks
+2_10_town,Oriath Docks,Talk to Lani
+2_10_town,Oriath Docks,Talk to Lilly Roth and sail to Karui Shores
+2_11_endgame_town,Karui Shores,Activate Crafting Recipe (Movement Speed craft)
+2_11_endgame_town,Karui Shores,Talk to Kirac (Type '/passives' in chat to check for missing skill points)
+2_11_endgame_town,Karui Shores,Begin Endgame (The act tracker can now be disabled in settings. Check for missing passive points with '/passives' command.)
