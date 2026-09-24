@@ -1,9 +1,11 @@
 {
   "big single target damage unlocked at level 50": "레벨 50에 사용 가능한 단일 피해 스킬",
   "don't place it on your action bar as it procs from": "이 스킬은 자동으로 작동하기 때문에 액션바에 넣지마세요",
+  "larger mana pool increases your dps": "총 마나량이 많을수록 DPS가 증가합니다",
   "need to cast spirit plague for ward": "보호막을 위해 영혼 역병을 시전해야 합니다.",
   "once or twice depeding on how many mosters you attack": "공격하는 몬스터의 수에 따라 한두 번",
   "to move quickly through the chapters": "액트를 빠르게 이동하기 위해",
   "use it in front of you to maximum the damage.": "피해를 극대화하려면 정면에서 사용하세요.",
+  "without interruptions": "끊김없이 사용하기 위해",
   "you have to curse monsters with it to generate lots of ward": "몬스터에게 저주를 걸어 막대한 와드를 생성해야 합니다"
 }
